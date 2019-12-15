@@ -1,0 +1,42 @@
+.icon {
+    margin-left: 5px;
+    display: flex;
+    justify-content: flex-end;
+
+    @media(min-width: 576px) {
+        margin-left: 0;
+        flex: 1;
+    }
+
+    svg {
+        font-size: 2.5rem;
+
+        @media(min-width: 576px) {
+            font-size: 4rem;
+        }
+
+        @media(min-width: 576px) {
+            font-size: 4rem;
+        }
+    }
+
+    .happy {
+        fill: green;
+
+    }
+
+    .sad {
+        fill: red;
+
+    }
+
+    .neutral {
+        fill: yellow;
+
+    }
+
+    .neutral-sad {
+        fill: orange;
+
+    }
+}

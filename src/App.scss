@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap&subset=latin-ext');
+
+.App {
+  min-height: 100vh;
+  padding: 50px 0 0 0;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('./img/bcg.jpg');
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  color: #ffffff;
+
+  &__title {
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 2.5rem;
+    text-transform: capitalize;
+  }
+}
