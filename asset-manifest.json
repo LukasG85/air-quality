@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/air-quality/static/css/main.63309428.chunk.css",
-    "main.js": "/air-quality/static/js/main.62ed5bbd.chunk.js",
-    "main.js.map": "/air-quality/static/js/main.62ed5bbd.chunk.js.map",
+    "main.js": "/air-quality/static/js/main.bf518e69.chunk.js",
+    "main.js.map": "/air-quality/static/js/main.bf518e69.chunk.js.map",
     "runtime-main.js": "/air-quality/static/js/runtime-main.e4a3f36f.js",
     "runtime-main.js.map": "/air-quality/static/js/runtime-main.e4a3f36f.js.map",
     "static/css/2.17e5ed98.chunk.css": "/air-quality/static/css/2.17e5ed98.chunk.css",
     "static/js/2.d924335d.chunk.js": "/air-quality/static/js/2.d924335d.chunk.js",
     "static/js/2.d924335d.chunk.js.map": "/air-quality/static/js/2.d924335d.chunk.js.map",
     "index.html": "/air-quality/index.html",
-    "precache-manifest.ac3ea0a498bca7d1fe011ef9fa45d697.js": "/air-quality/precache-manifest.ac3ea0a498bca7d1fe011ef9fa45d697.js",
+    "precache-manifest.1d9ffe3ba128e007374b00cf54036109.js": "/air-quality/precache-manifest.1d9ffe3ba128e007374b00cf54036109.js",
     "service-worker.js": "/air-quality/service-worker.js",
     "static/css/2.17e5ed98.chunk.css.map": "/air-quality/static/css/2.17e5ed98.chunk.css.map",
     "static/css/main.63309428.chunk.css.map": "/air-quality/static/css/main.63309428.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.17e5ed98.chunk.css",
     "static/js/2.d924335d.chunk.js",
     "static/css/main.63309428.chunk.css",
-    "static/js/main.62ed5bbd.chunk.js"
+    "static/js/main.bf518e69.chunk.js"
   ]
 }
